@@ -10,6 +10,7 @@ namespace tr05
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Poo tr05");
         }
     }
 }
